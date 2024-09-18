@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with text Fans\", \"checked\": true}, {\"feature\": \"Include a notification badge for new fans\", \"checked\": false}, {\"feature\": \"Add an animation effect when the button is clicked\", \"checked\": false}, {\"feature\": \"Create a hover effect for the Fans button\", \"checked\": false}, {\"feature\": \"Implement a dropdown with fan-related options\", \"checked\": false}, {\"feature\": \"Display total number of fans next to the button\", \"checked\": false}], \"input_token_count\": 223, \"output_token_count\": 119, \"time_taken\": \"0:00:01.207660\"}",
+        "message_id": "guest18092024055225",
+        "timestamp": "18092024055234",
+        "component_file_name": "simple_cta_component_1726638577",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Fans' button to be positioned within the app?\", \"option1\": \"In the main navigation menu\", \"option2\": \"At the bottom of the main screen\"}, {\"question 2\": \"What action should the 'Fans' button perform when clicked?\", \"option1\": \"Navigate to a fan community page\", \"option2\": \"Open a pop-up with fan-related content\"}], \"input_token_count\": 269, \"output_token_count\": 98, \"time_taken\": \"0:00:01.263985\"}",
         "message_id": "guest18092024055225",
