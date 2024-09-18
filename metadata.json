@@ -4,5 +4,6 @@
     "project_description": "an app for making the Space",
     "creation_time": "2024-09-18 05:49:34.673519",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image showcases a surreal, vibrant landscape with a predominantly pink and purple color scheme, featuring a large planet, smaller moons, and jagged mountain silhouettes under a starry sky. The style is otherworldly and futuristic, with an emphasis on dramatic lighting and contrast."
 }
