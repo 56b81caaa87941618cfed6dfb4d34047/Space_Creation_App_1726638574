@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button with text Fans",
+        "message_id": "guest18092024055225",
+        "timestamp": "18092024055227",
+        "component_file_name": "simple_cta_component_1726638577",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
