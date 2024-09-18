@@ -2,7 +2,7 @@
 INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a line of text under it, and a button underneath it. They are all centre aligned.
 -->
 <template>
-    <section id="cta-component" class="flex-1 bg-gradient-to-br from-pink-500 to-purple-700 min-h-[390px] p-8">
+    <section id="cta-component" style="min-height: 430px" class="flex-1 bg-gradient-to-br from-pink-500 to-purple-700 min-h-[390px] p-8">
         <div id="cta-inner-container" class="max-w-screen-xl mx-auto bg-white bg-opacity-20 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg p-8">
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                 <div id="cta-title-container" class="flex">
